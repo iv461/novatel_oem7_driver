@@ -1,4 +1,4 @@
-std_msgs/Header             header
+std_msgs/Header                      header
 Oem7Header                  nov_header
 InertialSolutionStatus      ins_status
 PositionOrVelocityType      pos_type
